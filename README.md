@@ -2,7 +2,7 @@
 - 👀 I’m interested in server side
 - 🌱 I’m currently learning Python,Reactjs,ML
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me https://about.me/bansothen
+- 📫 How to reach me bansokthen@gmail.com
 
 <!---
 bsthen/bsthen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
