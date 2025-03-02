@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bsthen
 - 👀 I’m interested in server side
-- 🌱 I’m currently learning Python,Reactjs,ML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me bansokthen@gmail.com
 
