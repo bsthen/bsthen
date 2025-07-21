@@ -8,8 +8,8 @@ I'm a passionate coder from **Cambodia** 🇰🇭, working across backend, DevOp
 - ...and many more contributions to open-source projects!
 
 ## 💻 Tech I use
-- **Languages**: Python, JavaScript, PHP, HTML, CSS
-- **Web Frameworks**: FastAPI, Flask, Django
+- **Languages**: Python, Node, PHP, JavaScript, HTML, CSS
+- **Web Frameworks**: FastAPI, Laravel, ReactJS, NextJS
 - **DevOps**: Linux (Ubuntu, CentOS), WHM/cPanel, aaPanel, CyberPanel, Docker, CI/CD
 - **Cloud**: DigitalOcean, Google Cloud Platform, Cloudflare
 
