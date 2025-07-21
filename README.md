@@ -1,13 +1,26 @@
-<!---
-bsthen/bsthen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![trophy](https://github-profile-trophy.vercel.app/?username=bsthen&margin-w=8)](https://github.com/bsthen)
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bsthen&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsthen&langs_count=5&theme=tokyonight)]()
--->
+# 👋 Hi there, I'm Sothen ([@bsthen](https://github.com/bsthen))
 
-![](https://github-readme-stats.vercel.app/api?username=bsthen&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bsthen&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsthen&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a passionate coder from **Cambodia** 🇰🇭, working across backend, DevOps, and web development. I love building tools and services that make life easier, especially for Khmer-speaking users.
+
+## 🚀 Projects I've worked on
+- [`bakong-khqr`](https://github.com/bsthen/bakong-khqr): A Python module to generate KHQR (Bakong QR codes) for payments in Cambodia.
+- [`Khmer Geo Location API`](https://api.khmer.asia): A free API for geo lookups in Cambodia.
+- ...and many more contributions to open-source projects!
+
+## 💻 Tech I use
+- **Languages**: Python, JavaScript, PHP, HTML, CSS
+- **Web Frameworks**: FastAPI, Flask, Django
+- **DevOps**: Linux (Ubuntu, CentOS), WHM/cPanel, aaPanel, CyberPanel, Docker, CI/CD
+- **Cloud**: DigitalOcean, Google Cloud Platform, Cloudflare
+
+## 🌱 What I'm into
+- Open-source tools for Cambodia
+- Making APIs that are easy and fast
+- Server automation and cloud deployment
+- Learning new tech and sharing with the community
+
+> Let's build something useful for everyone. Feel free to explore my work and connect!
+
+---
+🌐 Telegram: [t.me/bansothen](https://t.me/bansothen)  
+📫 Reach me via GitHub Issues or [bansokthen@gmail.com](mailto:bansokthen@gmail.com) 
