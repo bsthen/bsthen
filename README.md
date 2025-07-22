@@ -4,7 +4,7 @@ I'm a passionate coder from **Cambodia** 🇰🇭, working across backend, DevOp
 
 ## 🚀 Projects I've worked on
 - [`bakong-khqr`](https://github.com/bsthen/bakong-khqr): A Python module to generate KHQR (Bakong QR codes) for payments in Cambodia.
-- [`Khmer Geo Location API`](https://api.khmer.asia): (https://api.khmer.asia) A free API for geo lookups in Cambodia.
+- [`Cambodia Geo API`](https://github.com/bsthen/CambodiaGeoAPI): (https://api.khmer.asia) A free API for geo lookups in Cambodia.
 - ...and many more contributions to open-source projects!
 
 ## 💻 Tech I use
