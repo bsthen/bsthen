@@ -4,15 +4,9 @@ I'm a passionate coder from **Cambodia** 🇰🇭, working across backend, DevOp
 
 ## 🚀 Projects I've worked on
 - [`bakong-khqr`](https://github.com/bsthen/bakong-khqr): A Python module to generate KHQR (Bakong QR codes) for payments in Cambodia.
-- [`Cambodia Geo API`](https://github.com/bsthen/CambodiaGeoAPI): A free API for geo lookups in Cambodia.
+- [`Cambodia Geo API`](https://cambodia-geo.pages.dev): Free library for Cambodia Administrative Geo Data.
 - [`Android Device Models`](https://github.com/bsthen/device-models): Mapping of device codes to marketing names for Android and other smartphones.
 - ...and many more contributions to open-source projects!
-
-## 💻 Tech I use
-- **Languages**: Python
-- **Web Frameworks**: FastAPI
-- **DevOps**: Linux (Ubuntu, CentOS), WHM/cPanel, aaPanel, CyberPanel, Docker, CI/CD
-- **Cloud**: DigitalOcean, Google Cloud Platform, Cloudflare
 
 ## 🌱 What I'm into
 - Open-source tools for Cambodia
